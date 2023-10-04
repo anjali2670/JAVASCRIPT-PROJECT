@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    border: 10px dotted white;
+
+}
+.quote{
+    float: left;
+    padding-top:30px ;
+    width: 50%;
+    text-align: center;
+    
+}
+.poster-image{
+
+}
+.boigraphy{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;  
+    font-size: 30px ;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+
+}
+.bibliboigraphy{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;  
+    font-size: 30px ;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+
+}

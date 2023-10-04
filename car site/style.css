@@ -1,0 +1,163 @@
+.logo-image{
+    float:right;
+     margin-right: 50px;
+     background-color: black;
+     border:1px solid black;
+ }
+ #header{
+     background-image: url(https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-ddc42f48f98ec4eb5accfb945a1cdfa3.webp);
+     background-position: relative;
+     background-size: 100%;
+     background-repeat: no-repeat;
+ }
+ #header .style .options{
+     align-self: center;
+     background-color: black;
+ }
+ #header .style .options ul{
+     display: flex;
+     list-style: none;
+     text-transform: uppercase;
+     padding-top: 40px;
+     padding-bottom: 40px;
+     margin-left: 100px;
+ }
+ #header .style .options ul li {
+     margin-right: 22px;
+     color: white;
+  }
+  #header .front-face{
+     margin-left : 50px;
+     margin-top : 70px;
+     font-size: 100px;
+     color:white;
+     font-weight: bold;
+  }
+  #header .front-face .about{
+     font-size: 70px;
+  }
+  #header .front-facing{
+     margin: 0px;
+     color:white;
+  }
+ .test-drive{
+      margin-top: 100px;
+      padding-left: 40px;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      font-size: 40px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color:springgreen;
+      background-color: black;
+  }
+ .test-speed{
+     text-decoration: none;
+     color:red;
+ }
+  #header .test-drive-button{
+     font-size: 30px;
+     font-weight: bold;
+  }
+  .all{
+     background-color: black;
+     padding-bottom: 40px;
+  }
+  #models{
+     background-color: black;
+  }
+  #models h1{
+     color:goldenrod;
+     margin-top: 100px;
+     margin-left: 50px;
+     font-size: 100px;
+  }
+   .products{
+     color:whitesmoke;
+     font-size: 40px;
+     font-weight: bold;
+  }
+  #models .chiron{
+     float:right;
+     height: 300px;
+     width: 400px;
+  }
+  #models .about-chiron{
+     color:wheat;
+     font-size: large;
+     font-family:'Times New Roman', Times, serif;
+     text-align:left;
+  }
+ #models-second{
+     background-color: black;
+     margin-top: 100px;
+ }
+ .Veryon{
+     height: 300px;
+     width: 400px;
+     float:right;
+  }
+  #models-second .about-veryon{
+     color:wheat;
+     font-size: large;
+     font-family:'Times New Roman', Times, serif;
+     text-align:left;
+  }
+  #models-third{
+     background-color: black;
+     margin-top: 80px;
+  }
+  #models-third .mistral{
+     float:right;
+    height: 300px;
+    width:200px;
+  }
+  #models-third .about-mistral{
+     color:wheat;
+     font-size: large;
+     font-family:'Times New Roman', Times, serif;
+     text-align:left;
+     margin-bottom: 100px;
+  }
+  #fuel{
+     /* margin-top:0; */
+     background-color:aliceblue;
+  }
+  #fuel .fuel-consumption{
+     text-align: center;
+     padding-top:200px;
+     font-size: xx-large;
+  }
+  #fuel .article{
+    display:inline-block;
+    list-style-type:none;
+  }
+  #fuel .fuel-consumption-second{
+     text-align: center;
+     padding-top:200px;
+     padding-bottom: 200px;
+     font-size: xx-large;
+  }
+  #footer{
+     height:300px;
+     background-color: black;
+  }
+  #footer .footer-rights{
+     text-align: center;
+     padding-top: 100px;
+     color:wheat;
+  }
+  #footer .footer-list{
+     list-style-type: none;
+     display:flex;
+     color:wheat;
+     margin-left: 50px;
+     margin-right : 50px;
+     margin-top: 20px;
+  }
+  #footer .footer-list li{
+      text-transform:uppercase;
+     margin-left: 10px;
+     margin-right:10px;
+     padding : 20px;
+  }
+ 
